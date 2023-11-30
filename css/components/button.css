@@ -1,0 +1,9 @@
+.btn-green {
+  display: inline-block;
+  color: white;
+  padding: 16px 36px;;
+  border-radius: 50px;
+  background: linear-gradient(#afff5e, #05aa2e);
+  box-shadow: 0 10px 30px rgba(0, 0, 0,.1);
+  border: 1px solid transparent;
+}
